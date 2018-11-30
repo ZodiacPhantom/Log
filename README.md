@@ -1,4 +1,4 @@
-# E
+# Error
 ERROR 1118 (42000) at line 1251: The size of BLOB/TEXT data inserted in one transaction is greater than 10% of redo log size. Increase the redo log size using innodb_log_file_size.
 
 #Fix
